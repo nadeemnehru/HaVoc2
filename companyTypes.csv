@@ -1,0 +1,19 @@
+TYPE,TUI
+Private Limited Company,T511
+Other Company Type,T521
+Charitable Incorporated Organisation,T505
+"PRI/LTD BY GUAR/NSC (Private, limited by guarantee, no share capital)",T515
+Industrial and Provident Society,T520
+Limited Partnership,T500
+Royal Charter Company,T514
+Limited Liability Partnership,T502
+"PRI/LBG/NSC (Private, Limited by guarantee, no share capital, use of 'Limited' exemption)",T513
+Community Interest Company,T516
+Public Limited Company,T517
+Scottish Charitable Incorporated Organisation,T509
+Private Unlimited Company,T503
+Old Public Company,T507
+Registered Society,T504
+Private Unlimited,T506
+Scottish Partnership,T518
+Investment Company with Variable Capital,T501
